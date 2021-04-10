@@ -1,4 +1,4 @@
-- 👋 @theC0mptr0ll3R here.
+- 👋 Hi, @theC0mptr0ll3R here.
 - 👀 Voiceover producer, musician, translator, and programmer.
 - 🌱 Python, mainly. C and Javascript, sometimes.
 - 📫 Please contact through here.
